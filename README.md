@@ -2,6 +2,7 @@
 - 👀 I’m interested in Blockchain, ML, and Algorithms
 - 🌱 I’m currently learning life
 - 📫 Feel free to shoot a mail to leejeewoo33@gmail.com
+- My old github profile is @lcs-jlee
 
 <!---
 lee-jeewoo/lee-jeewoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
